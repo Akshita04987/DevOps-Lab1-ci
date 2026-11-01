@@ -11,3 +11,5 @@ Checkout, Install Dependencies, Test, Build, Deploy
 
 ## Observations
 Pipeline ran successfully. Pushing a commit triggered an automatic build.
+
+Branch workflow: this change was made on the feature-readme branch.
